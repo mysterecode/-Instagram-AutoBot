@@ -19,3 +19,28 @@ Ensure **Python 3.x** is installed, then execute:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### 2. Usage
+
+To run the bot, execute the following command in your terminal:
+
+```bash
+python main.py
+```
+
+You will be prompted to enter the following information:
+
+* Your Instagram Email
+* Your Instagram Password
+* Username of the person to follow
+* Topic for comment search
+* Your preferred comment 
+
+Once you have entered the details, the bot will automatically log in to Instagram, follow the specified user, and comment on relevant posts based on the chosen topic.
+
+## Need More Features or Custom Automation?
+
+Looking for a custom bot tailored to your specific business needs? Do you require automation solutions for other social media platforms or websites?
+
+📩 Contact me on Telegram: [@mysteredev](https://t.me/mysteredev)
